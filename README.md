@@ -56,3 +56,12 @@ To start the cron job with nodemon for auto-reloading, run:
 ```
 npm run cronjob
 ```
+
+account 1:
+tk : canhcutcon
+mk: 123456789
+
+acc2
+
+tk: yonedoan
+mk: 123456789
